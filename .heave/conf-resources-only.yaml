@@ -1,6 +1,0 @@
-resources:
-    - name: cache
-      type: redis
-    - name: database
-      type: postgres
-      
